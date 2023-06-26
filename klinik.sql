@@ -104,6 +104,7 @@ INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
 -- Table structure for table `obat`
 --
 
+
 CREATE TABLE `obat` (
   `id` bigint(20) UNSIGNED NOT NULL,
   `jenis_obat` varchar(50) NOT NULL,
